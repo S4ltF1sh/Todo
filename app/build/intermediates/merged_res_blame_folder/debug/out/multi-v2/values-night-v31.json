@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.todo.app-mergeDebugResources-50:/values-night-v31/values-night-v31.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\Downloads\\TodoApp\\app\\src\\main\\res\\values-night-v31\\themes.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "166",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "472"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "361"
+                    }
+                }
+            ]
+        }
+    ]
+}

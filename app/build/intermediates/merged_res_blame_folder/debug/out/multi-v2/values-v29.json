@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.todo.app-mergeDebugResources-50:/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\Downloads\\TodoApp\\app\\src\\main\\res\\values-v29\\themes.xml",
+                    "from": {
+                        "startLines": "9,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "381,17",
+                        "endLines": "13,7",
+                        "endColumns": "12,12",
+                        "endOffsets": "684,375"
+                    },
+                    "to": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,363",
+                        "endLines": "6,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "358,671"
+                    }
+                }
+            ]
+        }
+    ]
+}

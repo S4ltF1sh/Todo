@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "com.example.todo.app-merged_res-52:/anim_top_down.xml.flat",
+        "source": "com.example.todo.app-main-54:/anim/top_down.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/layout_fragment_todo.xml.flat",
+        "source": "com.example.todo.app-main-54:/layout/fragment_todo.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_search.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.todo.app-debug-53:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/layout_notification.xml.flat",
+        "source": "com.example.todo.app-main-54:/layout/notification.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.todo.app-debug-53:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_send_to.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/ic_send_to.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.todo.app-debug-53:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_folder.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/ic_folder.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/layout_todo_widget.xml.flat",
+        "source": "com.example.todo.app-main-54:/layout/todo_widget.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_restore.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/ic_restore.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/layout_fragment_home.xml.flat",
+        "source": "com.example.todo.app-main-54:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/xml_backup_rules.xml.flat",
+        "source": "com.example.todo.app-main-54:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.todo.app-debug-53:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/menu_view_todo_edit_mode.xml.flat",
+        "source": "com.example.todo.app-main-54:/menu/view_todo_edit_mode.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_new_todos.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/ic_new_todos.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.todo.app-debug-53:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.todo.app-debug-53:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.todo.app-debug-53:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/layout_fragment_garbage.xml.flat",
+        "source": "com.example.todo.app-main-54:/layout/fragment_garbage.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_cancel.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/ic_cancel.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.todo.app-debug-53:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/layout_fragment_on_going.xml.flat",
+        "source": "com.example.todo.app-main-54:/layout/fragment_on_going.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_delete.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_rename.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/ic_rename.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_select_all.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/ic_select_all.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/anim_fall_down_anim.xml.flat",
+        "source": "com.example.todo.app-main-54:/anim/fall_down_anim.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/color_tab_layout_icon_color.xml.flat",
+        "source": "com.example.todo.app-main-54:/color/tab_layout_icon_color.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_check.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_divider.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/divider.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/layout_activity_main.xml.flat",
+        "source": "com.example.todo.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.todo.app-debug-53:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/color_title_by_enable_state_color.xml.flat",
+        "source": "com.example.todo.app-main-54:/color/title_by_enable_state_color.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_back.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/xml_shortcuts.xml.flat",
+        "source": "com.example.todo.app-main-54:/xml/shortcuts.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/layout_item_group.xml.flat",
+        "source": "com.example.todo.app-main-54:/layout/item_group.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.todo.app-debug-53:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.todo.app-debug-53:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_circle.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/ic_circle.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_search_view.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/search_view.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_alarm_24.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/ic_alarm_24.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.todo.app-debug-53:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/menu_home_bottom_toolbar_garbage_mode.xml.flat",
+        "source": "com.example.todo.app-main-54:/menu/home_bottom_toolbar_garbage_mode.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/menu_home_bottom_toolbar_with_group_mode.xml.flat",
+        "source": "com.example.todo.app-main-54:/menu/home_bottom_toolbar_with_group_mode.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_add.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_share.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_group_note.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/ic_group_note.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.todo.app-debug-53:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.todo.app-debug-53:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_warning.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/ic_warning.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.todo.app-main-54:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/menu_home_bottom_toolbar_only_one_group.xml.flat",
+        "source": "com.example.todo.app-main-54:/menu/home_bottom_toolbar_only_one_group.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/color_time_by_enable_state_color.xml.flat",
+        "source": "com.example.todo.app-main-54:/color/time_by_enable_state_color.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_circle_checkbox.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/circle_checkbox.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/layout_fragment_group.xml.flat",
+        "source": "com.example.todo.app-main-54:/layout/fragment_group.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/menu_view_todo_view_mode.xml.flat",
+        "source": "com.example.todo.app-main-54:/menu/view_todo_view_mode.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/layout_item_no_group.xml.flat",
+        "source": "com.example.todo.app-main-54:/layout/item_no_group.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/layout_item_group_state_2.xml.flat",
+        "source": "com.example.todo.app-main-54:/layout/item_group_state_2.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/menu_view_deleted_todo.xml.flat",
+        "source": "com.example.todo.app-main-54:/menu/view_deleted_todo.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/layout_item_add_new_group.xml.flat",
+        "source": "com.example.todo.app-main-54:/layout/item_add_new_group.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/layout_item_todo_widget.xml.flat",
+        "source": "com.example.todo.app-main-54:/layout/item_todo_widget.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/layout_bottom_sheet_group_picker.xml.flat",
+        "source": "com.example.todo.app-main-54:/layout/bottom_sheet_group_picker.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/layout_bottom_sheet_create_new_group.xml.flat",
+        "source": "com.example.todo.app-main-54:/layout/bottom_sheet_create_new_group.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_no_group.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/ic_no_group.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/menu_home_bottom_toolbar_only_todo_mode.xml.flat",
+        "source": "com.example.todo.app-main-54:/menu/home_bottom_toolbar_only_todo_mode.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/layout_item_todo.xml.flat",
+        "source": "com.example.todo.app-main-54:/layout/item_todo.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/anim_slide_down_anim.xml.flat",
+        "source": "com.example.todo.app-main-54:/anim/slide_down_anim.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/anim_top_up.xml.flat",
+        "source": "com.example.todo.app-main-54:/anim/top_up.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/menu_view_group.xml.flat",
+        "source": "com.example.todo.app-main-54:/menu/view_group.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/menu_home_edit_toolbar.xml.flat",
+        "source": "com.example.todo.app-main-54:/menu/home_edit_toolbar.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/navigation_nav_graph.xml.flat",
+        "source": "com.example.todo.app-main-54:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/menu_home_navigation_toolbar.xml.flat",
+        "source": "com.example.todo.app-main-54:/menu/home_navigation_toolbar.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/xml_todo_widget_info.xml.flat",
+        "source": "com.example.todo.app-main-54:/xml/todo_widget_info.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable-v21_app_widget_background.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable-v21/app_widget_background.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_alarm_16.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/ic_alarm_16.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/layout_bottom_sheet_date_and_time_picker.xml.flat",
+        "source": "com.example.todo.app-main-54:/layout/bottom_sheet_date_and_time_picker.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/layout_bottom_sheet_alert.xml.flat",
+        "source": "com.example.todo.app-main-54:/layout/bottom_sheet_alert.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/layout_fragment_search.xml.flat",
+        "source": "com.example.todo.app-main-54:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_check_circle.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/ic_check_circle.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/anim_recyclerview_anim_layout.xml.flat",
+        "source": "com.example.todo.app-main-54:/anim/recyclerview_anim_layout.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable_ic_todos.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable/ic_todos.xml"
+    },
+    {
+        "merged": "com.example.todo.app-merged_res-52:/drawable-v21_app_widget_inner_view_background.xml.flat",
+        "source": "com.example.todo.app-main-54:/drawable-v21/app_widget_inner_view_background.xml"
+    }
+]

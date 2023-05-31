@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.TODO" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="android:colorBackground">@color/background_main</item>
+        <item name="colorSurface">@color/background_cardview</item>
+        <item name="colorSecondaryContainer">@android:color/transparent</item>
+        
+    </style>
+</resources>

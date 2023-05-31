@@ -1,0 +1,31 @@
+[
+  {
+    "name": "nav_graph",
+    "navigationXmlIds": [],
+    "deepLinks": [
+      {
+        "schemes": [
+          "todo"
+        ],
+        "host": "fragment",
+        "port": -1,
+        "path": "/todo/.*",
+        "sourceFilePosition": {
+          "mSourceFile": {
+            "mFilePath": "C:\\Users\\Admin\\Downloads\\TodoApp\\app\\src\\main\\res\\navigation\\nav_graph.xml",
+            "mDescription": "nav_graph"
+          },
+          "mSourcePosition": {
+            "mStartLine": 16,
+            "mStartColumn": 8,
+            "mStartOffset": 692,
+            "mEndLine": 18,
+            "mEndColumn": 65,
+            "mEndOffset": 806
+          }
+        },
+        "isAutoVerify": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.example.todo.app-mergeDebugResources-51:/layout/bottom_sheet_group_picker.xml",
+        "source": "com.example.todo.app-main-54:/layout/bottom_sheet_group_picker.xml"
+    },
+    {
+        "merged": "com.example.todo.app-mergeDebugResources-51:/layout/item_no_group.xml",
+        "source": "com.example.todo.app-main-54:/layout/item_no_group.xml"
+    },
+    {
+        "merged": "com.example.todo.app-mergeDebugResources-51:/layout/notification.xml",
+        "source": "com.example.todo.app-main-54:/layout/notification.xml"
+    },
+    {
+        "merged": "com.example.todo.app-mergeDebugResources-51:/layout/bottom_sheet_create_new_group.xml",
+        "source": "com.example.todo.app-main-54:/layout/bottom_sheet_create_new_group.xml"
+    },
+    {
+        "merged": "com.example.todo.app-mergeDebugResources-51:/layout/fragment_garbage.xml",
+        "source": "com.example.todo.app-main-54:/layout/fragment_garbage.xml"
+    },
+    {
+        "merged": "com.example.todo.app-mergeDebugResources-51:/layout/bottom_sheet_date_and_time_picker.xml",
+        "source": "com.example.todo.app-main-54:/layout/bottom_sheet_date_and_time_picker.xml"
+    },
+    {
+        "merged": "com.example.todo.app-mergeDebugResources-51:/layout/fragment_todo.xml",
+        "source": "com.example.todo.app-main-54:/layout/fragment_todo.xml"
+    },
+    {
+        "merged": "com.example.todo.app-mergeDebugResources-51:/layout/item_add_new_group.xml",
+        "source": "com.example.todo.app-main-54:/layout/item_add_new_group.xml"
+    },
+    {
+        "merged": "com.example.todo.app-mergeDebugResources-51:/layout/fragment_group.xml",
+        "source": "com.example.todo.app-main-54:/layout/fragment_group.xml"
+    },
+    {
+        "merged": "com.example.todo.app-mergeDebugResources-51:/layout/activity_main.xml",
+        "source": "com.example.todo.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.todo.app-mergeDebugResources-51:/layout/item_todo.xml",
+        "source": "com.example.todo.app-main-54:/layout/item_todo.xml"
+    },
+    {
+        "merged": "com.example.todo.app-mergeDebugResources-51:/layout/fragment_on_going.xml",
+        "source": "com.example.todo.app-main-54:/layout/fragment_on_going.xml"
+    },
+    {
+        "merged": "com.example.todo.app-mergeDebugResources-51:/layout/fragment_home.xml",
+        "source": "com.example.todo.app-main-54:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.todo.app-mergeDebugResources-51:/layout/todo_widget.xml",
+        "source": "com.example.todo.app-main-54:/layout/todo_widget.xml"
+    },
+    {
+        "merged": "com.example.todo.app-mergeDebugResources-51:/layout/fragment_search.xml",
+        "source": "com.example.todo.app-main-54:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.example.todo.app-mergeDebugResources-51:/layout/bottom_sheet_alert.xml",
+        "source": "com.example.todo.app-main-54:/layout/bottom_sheet_alert.xml"
+    },
+    {
+        "merged": "com.example.todo.app-mergeDebugResources-51:/layout/item_group_state_2.xml",
+        "source": "com.example.todo.app-main-54:/layout/item_group_state_2.xml"
+    },
+    {
+        "merged": "com.example.todo.app-mergeDebugResources-51:/layout/item_group.xml",
+        "source": "com.example.todo.app-main-54:/layout/item_group.xml"
+    },
+    {
+        "merged": "com.example.todo.app-mergeDebugResources-51:/layout/item_todo_widget.xml",
+        "source": "com.example.todo.app-main-54:/layout/item_todo_widget.xml"
+    }
+]
